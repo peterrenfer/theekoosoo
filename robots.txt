@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ietuniequo.martin-gude.com/sitemap.xml
